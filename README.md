@@ -1,4 +1,4 @@
-# Pytorch_exercises
+# Pytorch exercises
 
 ### About These Notebooks
 
@@ -7,7 +7,7 @@ These notebooks are my solutions to the exercises from [Mr. Daniel Bourke's PyTo
 Please note that these solutions are my implementations and may differ from those provided in the course. Feel free to explore and modify them as you learn!
 
 
-### Note on Viewing Jupyter Notebooks on GitHub**
+### Note on Viewing Jupyter Notebooks on GitHub
 If you encounter an error like "There was an error rendering your Notebook: the 'state' key is missing from 'metadata.widgets'" while trying to view this Jupyter Notebook on GitHub, please note that this is due to GitHub's rendering limitations for notebooks containing certain metadata (e.g., interactive widgets).
 
 To resolve this, you can:
